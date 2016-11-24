@@ -11,3 +11,4 @@ Some tasks to do
 - [ ] Discuss the best dev practices
 - [ ] Define our dev stack
 - [ ] Define basic app functions
+- [ ] Check major lyric managers including LyricFind, MusiXmatch, Genius and Lyrically
