@@ -2,6 +2,8 @@
 
 This is an app proposal for desktops intended to work like musiXmatch Floating Lyrics™ on Android™ and inspired by Dropbox® badge, Overwolf® overlay app and Facebook® Messenger chatheads.
 
+Searches for song lyrics make up a significant portion of all Internet traffic. According to Microsoft, about 10 percent of all Internet search queries are entertainment-related, and about 70 percent of those searches are related to music lyrics
+
 *MusiXmatch logo will be replace by our own branding*
 
 ![Telas Demonstrativas](https://github.com/FelipeGlauber/DesktopFloatingLyrics/blob/master/assets/first-mockup.gif)
